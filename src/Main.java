@@ -16,6 +16,7 @@ public class Main {
         System.out.println(Arrays.toString(result));
     }
 
+
     static int removeDuplicates(int[] nums) {
         if (nums.length == 0) return 0;
 
